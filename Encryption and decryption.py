@@ -33,7 +33,7 @@ def spacer():
 
 print("caeser welcomes you....")
 
-#########    Main program.     ########
+#########    Main program     ########
 
 while(1):
     f = input('encryption(E) or decrypton(D)? ')
